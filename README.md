@@ -10,4 +10,8 @@ Credits: Roger Lee
 ![image](https://github.com/danielq24/2023_layoff_data/assets/123119481/a4bd3077-cd52-4919-a07a-01b87965cddf)
 
 Potential visuals and features to add
-- Slicer for time duration (yearly)
+Features:
+- Slicer for time duration (yearly or quarterly)
+- Slicer for industry
+Visual
+- Total lay off number since date
