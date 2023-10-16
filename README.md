@@ -1,5 +1,5 @@
 # 2023_layoff_data
-Discover layoff findings from using tools such as SQL and Tableau to visualize trends. 
+As we emerge from the aftermath of the 2020 COVID-19 pandemic, grapple with the ongoing Ukraine-Russian conflict, and adapt to the impact of rising interest rates, the workforce has been confronted with a formidable and ever-evolving landscape. The year 2023 has witnessed prominent headlines, featuring industry giants such as Amazon and Google, making the difficult decision to part ways with thousands of employees. For recent graduates and those who find themselves apprehensive about the volatile job market, delving into the layoff trends of the past few years becomes an invaluable exercise.
 
 ### Overview
 This Tableau dashboard visualizes layoffs from 2020 to 2023, helping users gain insights into industry trends, the timeline of layoffs, and the most affected cities. It provides a comprehensive view of layoff data for informed analysis.
